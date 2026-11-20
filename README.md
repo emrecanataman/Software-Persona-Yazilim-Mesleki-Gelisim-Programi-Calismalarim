@@ -22,7 +22,8 @@ toplanacaktır. Böylece öğrenme süreci, konu ve tarih bazında takip edilebi
 
 - **09.11.2026 Tarihli Eğitim:** HTTP, client-server mimarisi, REST API ve
   JSON notları; request-response ve routing örnekleri.
-- **10.11.2026 Tarihli Eğitim:** Node.js temelleri ve ilgili kavram soruları.
+- **10.11.2026 Tarihli Eğitim:** Node.js temelleri, modüller, dahili
+  modüller, `fs` ile dosya işlemleri, JSON kullanımı ve uygulama alıştırmaları.
 - **18.11.2026 Tarihli Eğitim:** JavaScript'in web dünyasındaki yeri, modern
   JavaScript, veri türleri, diziler, objeler, JSON, fonksiyonlar, OOP ve hata
   yakalama.
@@ -37,6 +38,7 @@ barındırır.
 Backend Geliştirme 1. Hafta/
 ├── 09.11.2026 Tarihli Eğitim/
 └── 10.11.2026 Tarihli Eğitim/
+    └── Alıştırmalar/
 Web Geliştirme (HTML, CSS, JavaScript) (2. Hafta)/
 └── 18.11.2026 Tarihli Eğitim/
 ```
@@ -50,6 +52,14 @@ Backend çalışmalarındaki Node.js uygulama örnekleri:
 - `Alıştırma 3/server.js`: HTTP sunucusu uygulaması
 - `Request-Response Demo/server.js`: Temel request-response örneği
 - `Request-Response Demo/server2.js`: Çoklu endpoint ve routing örneği
+
+10.11.2026 tarihli eğitimdeki Node.js alıştırmaları:
+
+- `Alıştırma 1/kartvizit.js`: Nesneler ve kullanıcı bilgilerini biçimlendirme
+- `Alıstırma 2/notdefteri.js`: `fs` modülüyle JSON dosyasından not okuma ve
+  yeni not ekleme
+- `Alıstırma 2/önemlinot.json`: Not defteri uygulamasının JSON verisi
+- `Alıştırma 3`: Modüler kütüphane sistemi alıştırması (geliştirme aşamasında)
 
 ## Gereksinimler
 
