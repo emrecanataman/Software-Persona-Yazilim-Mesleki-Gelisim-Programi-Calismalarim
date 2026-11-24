@@ -30,6 +30,9 @@ toplanacaktır. Böylece öğrenme süreci, konu ve tarih bazında takip edilebi
 - **18.11.2026 Tarihli Eğitim:** JavaScript'in web dünyasındaki yeri, modern
   JavaScript, veri türleri, diziler, objeler, JSON, fonksiyonlar, OOP ve hata
   yakalama.
+- **24.11.2026 Tarihli Eğitim:** SQL Server ve SSMS, veritabanı kurulumu,
+  veri türleri, `CREATE`/`ALTER`/`DROP`, `INSERT`, `SELECT`, filtreleme,
+  sıralama, toplama fonksiyonları, `GROUP BY` ve `HAVING`.
 
 ## Proje Yapısı
 
@@ -45,6 +48,11 @@ Backend Geliştirme 1. Hafta/
 └── 11.11.2026 Tarihli Eğitim/
 Web Geliştirme (HTML, CSS, JavaScript) (2. Hafta)/
 └── 18.11.2026 Tarihli Eğitim/
+Veri Tabanı ve SQL 3. Hafta/
+└── 24.11.2026 Tarihli Eğitim/
+    ├── Ders Notları.md
+    └── Alıştırmalar/
+        └── Sorular.md
 ```
 
 ### Uygulama Örnekleri
@@ -73,6 +81,17 @@ Backend çalışmalarındaki Node.js uygulama örnekleri:
 - Middleware ve merkezi hata yönetimi
 - Postman ile API endpoint'lerini test etme
 - CRUD işlemleri içeren kullanıcı yönetimi API'si
+
+24.11.2026 tarihli SQL Server çalışmaları:
+
+- SQL Server ve SSMS kurulumu
+- SQL sorgu yapısı ve komut grupları
+- DDL ile veritabanı ve tablo oluşturma, değiştirme ve kaldırma
+- Metin, sayı, tarih ve mantıksal veri türleri
+- `INSERT` ve `SELECT` ile kayıt ekleme ve okuma
+- `WHERE`, `IN`, `LIKE`, `ORDER BY` ve `AS`
+- Toplama fonksiyonları, `GROUP BY` ve `HAVING`
+- Kurs kayıt sistemi üzerine kolay, orta ve zor SQL alıştırmaları
 
 ## Gereksinimler
 
